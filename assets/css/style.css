@@ -51,12 +51,12 @@ header a {
   box-shadow: -4px 4px 5px #7d9295;
 }
 .genious-img {
-  background: url(../images/genious_pic.png);
+  background: url("../images/profile_pic.jpg");
   background-position: center center;
   background-size: cover;
 }
 .banner {
-  background-image: url("../images/cover-trees.jpg");
+  background-image: url("../images/Main-House.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
