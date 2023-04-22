@@ -167,24 +167,3 @@ footer p {
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
-/* ---------------------------Search Page */
-
-.bk-img-search {
-  height: 400px;
-  width: 600px;
-  margin: 0 auto;
-
-  background-image: url("../images/search-bk-image.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-.search-div {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  padding-top: 50px;
-}
-
-.search-div h5 {
-  font-weight: bold;
-}
